@@ -1,10 +1,5 @@
 # MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM
 
-# YOUTUBE LINK OF THE PROJECT:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E117db5VsTs/0.jpg)](https://youtu.be/E117db5VsTs)
-
-https://youtu.be/E117db5VsTs
-
 # MODEL LINK YOLO V3:
 https://pjreddie.com/media/files/yolov3.weights
 
@@ -64,8 +59,6 @@ https://pjreddie.com/media/files/yolov3.weights
 
 # 📈 Star Growth Over Time
 [![GitHub Stars](https://img.shields.io/github/stars/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM?style=social)](https://github.com/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM/stargazers)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM&type=Date)](https://star-history.com/#narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM&Date)
 
 
 # Screenshots of SYSTEM:
